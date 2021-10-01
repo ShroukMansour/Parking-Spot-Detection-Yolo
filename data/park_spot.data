@@ -1,5 +1,5 @@
 classes= 2
-train  = ../data/train.txt
-valid  = ../data/test.txt
-names  = ../data/park_spot.names
-backup = backup/
+train  = /content/Parking-Spot-Detection-Yolo/data/train.txt
+valid  = /content/Parking-Spot-Detection-Yolo/data/test.txt
+names  = /content/Parking-Spot-Detection-Yolo/data/park_spot.names
+backup = /content/Parking-Spot-Detection-Yolo/backup

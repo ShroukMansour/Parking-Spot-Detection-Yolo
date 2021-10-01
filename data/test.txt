@@ -1,1 +1,1 @@
-/content/darknet/data/park_spot/2.png
+/content/Parking-Spot-Detection-Yolo/data/park_spot/2.png
