@@ -1,0 +1,2 @@
+/content/darknet/data/park_spot/2.png
+
